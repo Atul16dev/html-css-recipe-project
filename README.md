@@ -10,7 +10,7 @@ This is my **First web development project** — a clean and aesthetic **recipe 
 - Responsive layout (in progress)
 
 ## 🚀 Live Demo
-🌐 [View Live Site](https://Atul16dev.github.io/recipe-website-layout)
+🌐 [View Live Site]( https://atul16dev.github.io/html-css-recipe-project/)
 
 ## 🛠️ Tech Stack
 - HTML5
